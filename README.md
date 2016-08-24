@@ -1,0 +1,2 @@
+# hi-earth
+For fun
